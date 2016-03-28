@@ -7,8 +7,7 @@ import java.util.Scanner;
 
 /**
  * Created by DM53848 on 3/10/2016.
- * added git test change
- * added a comment locally
+ *
  */
 public class RomanNumerCalculatorApp {
     public static void main(String[] args) {
